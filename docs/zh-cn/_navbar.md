@@ -24,3 +24,5 @@
   * [Grafana](zh-cn/cloud/grafana/README.md)
 * [人工智能](zh-cn/ai/README.md)
   * [PaddlePaddle](zh-cn/ai/paddlepaddle/README.md)
+* [独立软件](zh-cn/software/README.md)
+  * [Aria2](zh-cn/software/aria2.md)
