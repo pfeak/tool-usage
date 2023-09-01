@@ -9,3 +9,5 @@
   * [openssl 生成 TLS 证书](zh-cn/tool/linux/linux_openssl.md)
 * [Syslog](zh-cn/tool/linux/syslog/README.md)
   * [Syslog-ng](zh-cn/tool/linux/syslog/syslog-ng/README.md)
+* [SNMP](zh-cn/tool/linux/snmp/README.md)
+  * [SNMP 安装](zh-cn/tool/linux/snmp/install.md)
