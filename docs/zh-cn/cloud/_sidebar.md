@@ -3,6 +3,7 @@
     * [Docker指定数据存储位置](zh-cn/cloud/docker/docker_storage.md)
   * [k8s](zh-cn/cloud/k8s/README.md)
     * [k8s 使用](zh-cn/cloud/k8s/k8s_Usage.md)
+    * [pod 获取节点 IP](/zh-cn/cloud/k8s/pod_get_ip.md)
   * [Prometheus](zh-cn/cloud/prometheus/README.md)
     * [Prometheus 搭建与使用](zh-cn/cloud/prometheus/prometheus_build.md)
     * [Prometheus 鉴权](zh-cn/cloud/prometheus/basic_auth.md)
