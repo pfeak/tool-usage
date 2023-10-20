@@ -9,6 +9,7 @@
   * [Linux](zh-cn/tool/linux/README.md)
   * [JetBrains](zh-cn/tool/dev/JetBrains/README.md)
   * [Git](zh-cn/tool/dev/git/README.md)
+  * [WSL](zh-cn/tool/wsl/README.md)
 * [中间件](zh-cn/middleware/README.md)
   * [Logstash](zh-cn/middleware/Logstash/README.md)
   * [Kafka](zh-cn/middleware/Kafka/README.md)
