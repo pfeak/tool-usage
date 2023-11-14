@@ -6,6 +6,7 @@
 
 * [Golang](zh-cn/language/go/README.md)
   * [gvm 安装与使用](zh-cn/language/go/go_gvm.md)
+  * [delve 远程调试](zh-cn/language/go/delve.md)
 
 
 * [Python](zh-cn/language/Python/README.md)
