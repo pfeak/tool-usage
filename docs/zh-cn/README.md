@@ -9,3 +9,4 @@
 * [云原生](zh-cn/cloud/README.md)
 * [人工智能](zh-cn/ai/README.md)
 * [独立软件](zh-cn/software/README.md)
+* [积跬步资源站](https://stableimproving.com)

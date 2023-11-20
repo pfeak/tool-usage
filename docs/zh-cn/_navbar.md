@@ -27,3 +27,4 @@
   * [PaddlePaddle](zh-cn/ai/paddlepaddle/README.md)
 * [独立软件](zh-cn/software/README.md)
   * [Aria2](zh-cn/software/aria2.md)
+* [积跬步资源站](https://stableimproving.com)
