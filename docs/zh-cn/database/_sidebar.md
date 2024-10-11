@@ -3,6 +3,7 @@
   * [PostgreSQL](/zh-cn/database/PostgreSQL/README.md)
     * [PostgreSQL 环境搭建](/zh-cn/database/PostgreSQL/PostgreSQL_docker.md)
     * [PostgreSQL 用户/数据库 创建与查看](/zh-cn/database/PostgreSQL/PostgreSQL_create.md)
+    * [PostgreSQL 连接过多](/zh-cn/database/PostgreSQL/PostgreSQL_session.md)
   * [Elasticsearch](/zh-cn/database/Elasticsearch/README.md)
     * [Elasticsearch 环境搭建](/zh-cn/database/Elasticsearch/Elasticsearch_build.md)
     * [Elasticsearch 简单使用](/zh-cn/database/Elasticsearch/Elasticsearch_usage.md)
