@@ -11,3 +11,5 @@
     * [Alertmanager 告警](zh-cn/cloud/prometheus/alertmanager.md)
   * [Grafana](zh-cn/cloud/grafana/README.md)
     * [Grafana 搭建与使用](zh-cn/cloud/grafana/grafana_build.md)
+  * [Juicefs](zh-cn/cloud/juicefs/README.md)
+    * [Juicefs 安装与远程挂载](zh-cn/cloud/juicefs/juicefs_install.md)

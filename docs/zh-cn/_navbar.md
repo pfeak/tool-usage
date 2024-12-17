@@ -23,6 +23,7 @@
   * [k8s](zh-cn/cloud/k8s/README.md)
   * [Prometheus](zh-cn/cloud/prometheus/README.md)
   * [Grafana](zh-cn/cloud/grafana/README.md)
+  * [Juicefs](zh-cn/cloud/juicefs/README.md)
 * [人工智能](zh-cn/ai/README.md)
   * [PaddlePaddle](zh-cn/ai/paddlepaddle/README.md)
 * [独立软件](zh-cn/software/README.md)
